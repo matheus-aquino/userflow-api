@@ -1,0 +1,28 @@
+# Arquivos e diretórios gerados pelo Maven
+target/
+*.class
+
+# Arquivos de configuração do IDE
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
+
+# Dependências do Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Banco de dados local
+*.sql
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
