@@ -18,7 +18,7 @@ API RESTful para cadastro e listagem de usuários, desenvolvida com Spring Boot 
 ## Como Rodar a Aplicação
 1. Clone o repositório:
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/seu-usuario/userflow-api
    ```
 2. Entre no diretório do projeto:
    ```bash
